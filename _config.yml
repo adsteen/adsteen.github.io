@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            SteenLab Home
 locale:           en_US
 url:
 
@@ -26,21 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Andrew D. Steen
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "I'm interested in carbon, microorganisms, and aquatic ecosystems."
+  email: asteen1@utk.edu
   disqus-shortname:
-  twitter: #username
+  twitter: drdrewsteen #username
   facebook: #username
   google:
+    scholar: JKSGdVIAAAAJ
     plus: #username
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: adsteen #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -57,5 +58,5 @@ owner:
   flickr: #username
   codepen: #username
 
-include: [".htaccess"]
+include: [".htaccess", "_pages"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
