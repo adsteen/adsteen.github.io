@@ -1,10 +1,11 @@
 ---
-layout: home
+layout: page
 excerpt: "Lab website for the Steen lab"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: svalbard_test_header.jpg
   credit: Oskar Strom
+share: false
 ---
 
 # Overview
