@@ -5,7 +5,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: svalbard_test_header.jpg
   credit: Oskar Strom
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 # Overview
