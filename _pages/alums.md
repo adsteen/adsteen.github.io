@@ -10,11 +10,11 @@ permalink: /alumni/
 
 * **Drew Steen**: Lab PI. email: [asteen1@utk.edu](mailto:asteen1@utk.edu "email") 
 * **Abby Barrett**: Master's student. Controls on extracellular enzymes in freshwater systems.
-* **Lauren Mullen**: ![Lauren Mullen](/images/mullen_small.jpeg "Lauren Mullen, Lab Manager") Lab Manager.
+* ![Lauren Mullen](/images/mullen_small.jpeg "Lauren Mullen, Lab Manager") **Lauren Mullen**: Lab Manager.
 
 # Lab Alumni
 
-* **Jenna Schmidt**: ![Jenna Schmidt](/images/schmidt_small.jpeg "Jenna Schmidt, MS 2016") Master's student, graduated 2016. Activities of extracellular enzymes in deep sediments of the Baltic Sea Basin. 
+* ![Jenna Schmidt](/images/schmidt_small.jpeg "Jenna Schmidt, MS 2016") **Jenna Schmidt**: Master's student, graduated 2016. Activities of extracellular enzymes in deep sediments of the Baltic Sea Basin. 
 * [**Austen Webber**](http:///thethrashlab.com/people/): Lab manager 2013-2014; dissolved organic matter production by virus-infected bacteria (in prep) and , now Ph.D. student in the Thrash Lab at LSU.
 * **Drew Mather**: Effect of extracellular enzymes on marine sediment, now in the Peace Corps.
 * **Katherine Mulligan**: Substrate specificties of extracellular enzymes ([paper](http://www.int-res.com/abstracts/ame/v75/n3/p271-281/)); activities of extracellular enzymes in sediments of the White Oak River estuary, NC (manuscript in prep). Now at East Carolina University School of Medicine. 
