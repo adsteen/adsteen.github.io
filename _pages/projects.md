@@ -14,10 +14,18 @@ Deep marine sediments contain active microbial communities, but these microorgan
 * What happens to those enzymes once they are produced, and how do they interact with the extracellular environment?
 * What are the limits of extracellular enzyme production as a viable metabolic strategy?
 
-## Papers
+## Selected Products
 
 * Characterization of a novel peptidase from uncultured Archaea: Michalska, Steen et al (2015)
 * Demonstration that deeply-branching subsurface Archaea use extracellular enzymes to acquire carbon and nitrogen: Lloyd et al (2013)
+* Poster about WOR enzymes work
+* Jenna Schmidt's master's thesis: [link](../products/Schmidt_thesis_2016_final.pdf)
 
 
 ## Funding
+
+* C-DEBI grant
+* EOR grant
+
+
+# 
