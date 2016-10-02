@@ -26,7 +26,9 @@ kramdown:
 # Collections
 collections:
   - members
+    output: true
   - alumni
+    output: true
 
 
 # Site owner
