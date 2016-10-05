@@ -10,12 +10,15 @@ permalink: /alumni/
 
 * **Drew Steen**: Lab PI. email: [asteen1@utk.edu](mailto:asteen1@utk.edu "email") 
 * **Abby Barrett**: Master's student. Controls on extracellular enzymes in freshwater systems.
-* **Lauren Mullen**: Lab Manager.
+* **Lauren Mullen**: Lab Manager. Has worked on peptidase activities in East Tennessee waters and methods development for hydroxyl radical quantitation in sediment porewater.
 
 # Lab Alumni
 
 * **Jenna Schmidt**: Master's student, graduated 2016. Activities of extracellular enzymes in deep sediments of the Baltic Sea Basin. 
-* [**Austen Webber**](http:///thethrashlab.com/people/): Lab manager 2013-2014; dissolved organic matter production by virus-infected bacteria (in prep) and , now Ph.D. student in the Thrash Lab at LSU.
+    * Master's thesis: [link](http://trace.tennessee.edu/utk_gradthes/4072/). Paper in prep.
+* [**Austen Webber**](http:///thethrashlab.com/people/): Lab manager 2014-2015; dissolved organic matter production by virus-infected bacteria (in prep) and , now Ph.D. student in the Thrash Lab at LSU.
+     * Characterization of a novel peptidase from an uncultured Archaeon: [paper](http://www.fasebj.org/content/29/9/4071.short)
+     * DOM production by virus-infected bacteria (in prep)
 * **Drew Mather**: Effect of extracellular enzymes on marine sediment, now in the Peace Corps.
 * **Katherine Mulligan**: Substrate specificties of extracellular enzymes ([paper](http://www.int-res.com/abstracts/ame/v75/n3/p271-281/)); activities of extracellular enzymes in sediments of the White Oak River estuary, NC (manuscript in prep). Now at East Carolina University School of Medicine. 
 * **Shane Hagen**: Substrate specificties of extracellular enzymes ([paper](http://www.int-res.com/abstracts/ame/v75/n3/p271-281/)); activities of extracellular enzymes in sediments of the White Oak River estuary, NC (manuscript in prep), activities of extracellular enzymes in ultra-oligotrophic sediments of the Eastern Mediterranean (manuscript in prep).

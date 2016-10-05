@@ -14,18 +14,10 @@ Deep marine sediments contain active microbial communities, but these microorgan
 * What happens to those enzymes once they are produced, and how do they interact with the extracellular environment?
 * What are the limits of extracellular enzyme production as a viable metabolic strategy?
 
-## Selected Products
+# Hydroxyl radicals in anoxic marine sediments
 
-* Characterization of a novel peptidase from uncultured Archaea: Michalska, Steen et al (2015)
-* Demonstration that deeply-branching subsurface Archaea use extracellular enzymes to acquire carbon and nitrogen: Lloyd et al (2013)
-* Poster about WOR enzymes work
-* Jenna Schmidt's master's thesis: [link](../products/Schmidt_thesis_2016_final.pdf)
+Hydroxyl radicals are powerfully-oxidizing species which can react with a broad spectrum of organic compounds. Hydroxyl radicals can oxidize organic carbon all the way to carbon dioxide, or it can yield bioavailable, low-molecular weight compounds such as volatile fatty acids and carbon monoxide. We have preliminary evidence that hydroxyl radicals are formed in marine sediment, potentially by several different processes. We are currently in the early stages of determining the concentrations, production rates, production pathways, and biogeochemical consequences of hydroxyl radicals in marine sediments.
 
+# Controls on enzyme expression in freshwater
 
-## Funding
-
-* C-DEBI grant
-* EOR grant
-
-
-# 
+Extracellular enzyme activity assays in fresh waters have typically been used as a proxy for the activity or C/N/P demand of aquatic microbial communities. Relatively less attention has been paid to the mechanisms by which aquatic communities use extracellular enzymes to access complex orgnaic matter. We're working to rectify this by assaying a broad range of extracellular enzymes in lakes, rivers, and streams in the Appalachian mountains and foothills. We'd like to determine what controls the precise set of enzymes that are expressed in freshwater, and whether those controls influence the rate of bulk carbon oxidation or the nature of organic compounds that are oxidized versus those that are exported to the ocean.
