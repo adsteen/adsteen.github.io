@@ -2,6 +2,7 @@
 title: "Steenlab Member Expectations"
 author: Drew Steen
 date: 15 August 2017
+permalink: /expectations/
 ---
 
 # Expectations for all lab members
