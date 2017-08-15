@@ -1,7 +1,7 @@
 ---
-title: "Steenlab Member Expectations"
-author: Drew Steen
-date: 15 August 2017
+layout: page
+title: "Lab member expectations"
+sitemap: true
 permalink: /expectations/
 ---
 
