@@ -16,11 +16,16 @@ permalink: /expectations/
 * **If you see an unsafe practice, speak up.** This means talking to anyone involved in an unsafe situation immediately, and telling Drew as soon as is practical. Drew's cell phone number is on the lab whiteboard; don't be afraid to use it.
 * Look after your own mental and physical health. Eat well, get enough sleep, and get some regular exercise. It is difficult to stay safe if your [basic needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) are not being met.
 
+### Basics
+* Try to keep soilds out of the sink and don't pour chemicals down the drain.
+* Clean the benchtop after you've completed an experiment
+* Don't be nervous to ask questions if you're not sure about something.
+
 ### Clothing
 
 * At all times, long pants and closed-toe shoes must be worn in lab. 
-* Safety glasses and lab coats must be worn when anyone in lab is working with 
-
+* Safety glasses and lab coats must be worn when anyone in lab is working with potentially dangerous chemicals, such as acids and bases. Lab coats should also be worn while doing laboratory dishes. Never wear your lab coat out of the main lab area. Saftey glasses should be worn when working with chemicals as well as when heating substances.
+* Gloves should be worn when working with any chemical and when you need to prevent contamination of samples. Remember to change them often.
 
 ### Training
 
