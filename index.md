@@ -3,7 +3,7 @@ layout: page
 excerpt: "Lab website for the Steen lab"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: svalbard_test_header.jpg
+  feature: sval_header.jpg
   credit: Oskar Strom
 share: false
 ---
@@ -23,3 +23,6 @@ The Steen Lab is trying to understand how those heterotrophic microorgnaisms acc
 ## Mountain Rivers, Lakes and Streams
 
 Inland waters are [important players](http://link.springer.com.proxy.lib.utk.edu:90/article/10.1007/s10021-006-9013-8) in regional carbon budgets. Microbes in freshwaters use extracellular enzymes to access orgnaic matter - but despite the fact that the activities of a few of those enzymes (leucine aminopeptidase, beta glucosidase) have been studied extensively, the full range of extracellular enzymes present in freshwaters have not been identified. We are [assaying](https://www.overleaf.com/articles/field-trip-report-peec-may-2015-novel-peptidase-activities-in-diverse-freshwaters-of-the-pocono-mountains-pa/xfghpttrhmxq/viewer.pdf) a wide set of peptidases (protein-degrading enzyme) in diverse rivers, lakes and streams of the Appalachian mountains to understand what kinds of organic matter can and can't be metabolized to carbon dioxide, and what controls variations in organic matter bioavailability among environments.
+
+# Sandbox
+
