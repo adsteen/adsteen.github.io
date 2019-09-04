@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Steen Lab</title>
-    <link>/draft_new_lab_site/authors/</link>
-      <atom:link href="/draft_new_lab_site/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/</link>
+      <atom:link href="https://adsteen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/draft_new_lab_site/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Authors</title>
-      <link>/draft_new_lab_site/authors/</link>
+      <link>https://adsteen.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/admin/</link>
+      <link>https://adsteen.github.io/authors/admin/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/admin/</guid>
+      <guid>https://adsteen.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Drew Steen is interested in microbe-organic matter interactions in aquatic environments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/abarrett/</link>
+      <link>https://adsteen.github.io/authors/abarrett/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/abarrett/</guid>
+      <guid>https://adsteen.github.io/authors/abarrett/</guid>
       <description>&lt;p&gt;I work as a consultant for &lt;a href=&#34;https://www.westonandsampson.com/&#34; target=&#34;_blank&#34;&gt;Weston and Sampson&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/alonergan/</link>
+      <link>https://adsteen.github.io/authors/alonergan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/alonergan/</guid>
+      <guid>https://adsteen.github.io/authors/alonergan/</guid>
       <description>&lt;p&gt;Andrew has been in the lab since 2017, during which time he has investigated the activites of extracellular enzymes in hot springs in Panama.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/ccook62/</link>
+      <link>https://adsteen.github.io/authors/ccook62/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/ccook62/</guid>
+      <guid>https://adsteen.github.io/authors/ccook62/</guid>
       <description>&lt;p&gt;Chris is working on the mechanisms by which microcystin, a toxin produced in harmful algal blooms, is degraded by heterotrophic microbes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/lmullen/</link>
+      <link>https://adsteen.github.io/authors/lmullen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/lmullen/</guid>
+      <guid>https://adsteen.github.io/authors/lmullen/</guid>
       <description>&lt;p&gt;Lauren has been in the Steen lab since 2014, during which time she has been an undergrad researcher, lab manager, and graduate student.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/lpate/</link>
+      <link>https://adsteen.github.io/authors/lpate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/lpate/</guid>
+      <guid>https://adsteen.github.io/authors/lpate/</guid>
       <description>&lt;p&gt;Lauren Pate joined the lab in Fall 2019. She is currently writing software to process data from several TB of BLAST search results of a large quantity of publicly-available genomic and metagenomic data.&lt;/p&gt;
 
 &lt;p&gt;In her free time, Lauren enjoys mountain biking and scuba diving.&lt;/p&gt;
@@ -70,27 +70,27 @@
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/mmiles/</link>
+      <link>https://adsteen.github.io/authors/mmiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/mmiles/</guid>
+      <guid>https://adsteen.github.io/authors/mmiles/</guid>
       <description>&lt;p&gt;Maryn has been in the lab since 2018, during which time she has performed a bioinformatic study of the presence of genes for sulfoquinovose degradation in marine sediments, and participated in a two-week research cruise in the North Atlantic Gyre.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/rspaulding/</link>
+      <link>https://adsteen.github.io/authors/rspaulding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/rspaulding/</guid>
+      <guid>https://adsteen.github.io/authors/rspaulding/</guid>
       <description>&lt;p&gt;Russell Spaulding joined the lab in Fall 2019. He is working on an outreach project to involve high school students in research on microplastics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/troyalty/</link>
+      <link>https://adsteen.github.io/authors/troyalty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/troyalty/</guid>
+      <guid>https://adsteen.github.io/authors/troyalty/</guid>
       <description>&lt;p&gt;Taylor Royalty has been doing some cool meta-analyses, which are coming out soon in mSystems and mSphere.&lt;/p&gt;
 </description>
     </item>

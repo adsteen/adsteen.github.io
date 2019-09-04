@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>/draft_new_lab_site/authors/alonergan/</link>
-      <atom:link href="/draft_new_lab_site/authors/alonergan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/alonergan/</link>
+      <atom:link href="https://adsteen.github.io/authors/alonergan/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/draft_new_lab_site/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>/draft_new_lab_site/authors/alonergan/</link>
+      <link>https://adsteen.github.io/authors/alonergan/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/draft_new_lab_site/authors/alonergan/</link>
+      <link>https://adsteen.github.io/authors/alonergan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/draft_new_lab_site/authors/alonergan/</guid>
+      <guid>https://adsteen.github.io/authors/alonergan/</guid>
       <description>&lt;p&gt;Andrew has been in the lab since 2017, during which time he has investigated the activites of extracellular enzymes in hot springs in Panama.&lt;/p&gt;
 </description>
     </item>

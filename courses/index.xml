@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Steen Lab</title>
-    <link>/draft_new_lab_site/courses/</link>
-      <atom:link href="/draft_new_lab_site/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/courses/</link>
+      <atom:link href="https://adsteen.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/draft_new_lab_site/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Courses</title>
-      <link>/draft_new_lab_site/courses/</link>
+      <link>https://adsteen.github.io/courses/</link>
     </image>
     
   </channel>
