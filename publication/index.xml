@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Steen Lab</title>
-    <link>https://adsteen.github.io/publication/</link>
-      <atom:link href="https://adsteen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Publications</title>
-      <link>https://adsteen.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Substrate specificity of aquatic extracellular peptidases assessed by competitive inhibition assays using synthetic substrates</title>
-      <link>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</link>
+      <link>/publication/2015_steen_et_al_subs_specificity/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</guid>
+      <guid>/publication/2015_steen_et_al_subs_specificity/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title>New aminopeptidase from “microbial dark matter” archaeon</title>
-      <link>https://adsteen.github.io/publication/2014_michalska_et_al/</link>
+      <link>/publication/2014_michalska_et_al/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2014_michalska_et_al/</guid>
+      <guid>/publication/2014_michalska_et_al/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -53,9 +53,9 @@
     
     <item>
       <title></title>
-      <link>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</link>
+      <link>/publication/2013_arnosti_et_al_review/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</guid>
+      <guid>/publication/2013_arnosti_et_al_review/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -73,10 +73,10 @@
     </item>
     
     <item>
-      <title>*Verrucomicrobia* Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard</title>
-      <link>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</link>
+      <title>Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard</title>
+      <link>/publication/2014_cardman_et_al_verrucomicrobia/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</guid>
+      <guid>/publication/2014_cardman_et_al_verrucomicrobia/</guid>
       <description>&lt;p&gt;Cool thing about this paper: Lead author Zena Cardman was an undergraduate student in the &lt;a href=&#34;https://marine.unc.edu/research/traditional-disciplines/biological-oceanography/teske-lab-research/&#34; target=&#34;_blank&#34;&gt;Teske Lab&lt;/a&gt; at UNC when she did this work. Besides being an all-around awesome person, she is now a &lt;a href=&#34;https://www.nasa.gov/astronauts/biographies/zena-cardman&#34; target=&#34;_blank&#34;&gt;NASA Astronaut Candidate&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title>Meta-Analysis of Quantification Methods Shows that Archaea and Bacteria Have Similar Abundances in the Subseafloor</title>
-      <link>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</link>
+      <link>/publication/2013_lloyd_et_al_metaanalysis/</link>
       <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</guid>
+      <guid>/publication/2013_lloyd_et_al_metaanalysis/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

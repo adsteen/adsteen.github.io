@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Steen Lab</title>
-    <link>https://adsteen.github.io/project/</link>
-      <atom:link href="https://adsteen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Projects</title>
-      <link>https://adsteen.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Bioinformatic meta-analyses</title>
-      <link>https://adsteen.github.io/project/meta-analyses/</link>
+      <link>/project/meta-analyses/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/meta-analyses/</guid>
+      <guid>/project/meta-analyses/</guid>
       <description>&lt;p&gt;DNA and RNA sequence data are being deposited in public repositories at an astonishing rate. The quantity of sequence data in GenBank, for instance, has doubled approximately every 18 months since 1982! This is an extraordinarily rich source of information about microbial life. I argue that it is impossible to use all of the information in a sequence data set in a single study, and further that we can learn a lot by combining data from disparate studies that were not initially intended to be compared.&lt;/p&gt;
 
 &lt;p&gt;One line of research in the Steen Lab has been to see what we can learn from public data sets. We have helped to quantify the number of uncultured cells on Earth, the degree to which microbial traits are conserved as a function of taxonomic rank, and the relationship between DNA sequencing effort and the quantity of metagenome-assembled genomes (MAGs) that can be obtained.&lt;/p&gt;
@@ -25,21 +25,30 @@
     
     <item>
       <title>Extracellular enzymes</title>
-      <link>https://adsteen.github.io/project/extracellular_enzymes/</link>
+      <link>/project/extracellular_enzymes/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/extracellular_enzymes/</guid>
+      <guid>/project/extracellular_enzymes/</guid>
       <description>&lt;p&gt;Most of the molecules that organisms synthesize are polymeric, and so most of the bioavailable organic matter in the environment consists of high-molecular weight molecules. In order to access these molecules, heterotrophic microbes must first break them down into smaller units (although there are some intersting, &lt;a href=&#34;https://www.nature.com/articles/ismej201726&#34; target=&#34;_blank&#34;&gt;newly-discovered exceptions&lt;/a&gt; to this rule.) Thus, the ability of microbial communities to express extracellular enzymes, and the dynamics of those enzymes once produced, serve as a proximate control on the remineralization of organic matter, and thus the Earth&amp;rsquo;s carbon cycle. We study the nature, dynamics, and controls on microbial extracellular enzymes in aquatic environments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Outreach</title>
-      <link>https://adsteen.github.io/project/outreach/</link>
+      <link>/project/outreach/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/outreach/</guid>
+      <guid>/project/outreach/</guid>
       <description>&lt;p&gt;Since 2013, the Steen Lab has partnered with students and faculty at &lt;a href=&#34;https://www.nps.k12.nj.us/mxs/&#34; target=&#34;_blank&#34;&gt;Malcolm X Shabazz High School&lt;/a&gt; in Newark, NJ to perform authentic research on the activities and nature of extracellular peptidases present in small freshwater bodies and estuaries. High school students and faculty are true participants in the research, helping to design experiments, collect and process data, and present the research. More than 100 students have participated in this program. Students have participated in writing one &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmicb.2018.00368/full?report=reader&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; about the research, and have presented at four conferences, including twice at the fall meeting of the American Geophysical Union.&lt;/p&gt;
 
 &lt;p&gt;Going forward, we are in the process of expanding this program to work with both rural and urban high schools in East Tennessee.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thawing permafrost</title>
+      <link>/project/permafrost/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/permafrost/</guid>
+      <description>&lt;p&gt;Squib text about permafrost project.&lt;/p&gt;
 </description>
     </item>
     
