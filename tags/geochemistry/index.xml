@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geochemistry | Steen Lab</title>
-    <link>https://adsteen.github.io/tags/geochemistry/</link>
-      <atom:link href="https://adsteen.github.io/tags/geochemistry/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/geochemistry/</link>
+      <atom:link href="/tags/geochemistry/index.xml" rel="self" type="application/rss+xml" />
     <description>geochemistry</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>geochemistry</title>
-      <link>https://adsteen.github.io/tags/geochemistry/</link>
+      <link>/tags/geochemistry/</link>
     </image>
     
     <item>
       <title>Extracellular enzymes</title>
-      <link>https://adsteen.github.io/project/extracellular_enzymes/</link>
+      <link>/project/extracellular_enzymes/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/extracellular_enzymes/</guid>
+      <guid>/project/extracellular_enzymes/</guid>
       <description>&lt;p&gt;Most of the molecules that organisms synthesize are polymeric, and so most of the bioavailable organic matter in the environment consists of high-molecular weight molecules. In order to access these molecules, heterotrophic microbes must first break them down into smaller units (although there are some intersting, &lt;a href=&#34;https://www.nature.com/articles/ismej201726&#34; target=&#34;_blank&#34;&gt;newly-discovered exceptions&lt;/a&gt; to this rule.) Thus, the ability of microbial communities to express extracellular enzymes, and the dynamics of those enzymes once produced, serve as a proximate control on the remineralization of organic matter, and thus the Earth&amp;rsquo;s carbon cycle. We study the nature, dynamics, and controls on microbial extracellular enzymes in aquatic environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thawing permafrost</title>
+      <link>/project/permafrost/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/permafrost/</guid>
+      <description>&lt;p&gt;Squib text about permafrost project.&lt;/p&gt;
 </description>
     </item>
     

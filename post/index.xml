@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Steen Lab</title>
-    <link>https://adsteen.github.io/post/</link>
-      <atom:link href="https://adsteen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Posts</title>
-      <link>https://adsteen.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
   </channel>
