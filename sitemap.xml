@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/draft_new_lab_site/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/slides/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/slides/example/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/project/meta-analyses/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/project/extracellular_enzymes/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/project/meta-analyses-copy/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/project/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/tags/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/tags/bioinformatics/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/tags/geochemistry/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/tags/outreach/</loc>
+    <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/admin/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication_types/2/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication_types/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/tags/source-themes/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication/2015_steen_et_al_subs_specificity/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication/2014_michalska_et_al/</loc>
+    <lastmod>2015-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication/2013_arnosti_et_al_review/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/publication/2013_lloyd_et_al_metaanalysis/</loc>
+    <lastmod>2013-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/abarrett/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/alonergan/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/ccook62/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/lmullen/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/lpate/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/mmiles/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/rspaulding/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/authors/troyalty/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/draft_new_lab_site/post/</loc>
+  </url>
+  
+</urlset>
