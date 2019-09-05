@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>/authors/lquigley/</link>
-      <atom:link href="/authors/lquigley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/lquigley/</link>
+      <atom:link href="https://adsteen.github.io/authors/lquigley/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>/authors/lquigley/</link>
+      <link>https://adsteen.github.io/authors/lquigley/</link>
     </image>
     
     <item>
       <title>Evidence for the Priming Effect in a Planktonic Estuarine Microbial Community</title>
-      <link>/publication/2016_steen_priming/</link>
+      <link>https://adsteen.github.io/publication/2016_steen_priming/</link>
       <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_steen_priming/</guid>
+      <guid>https://adsteen.github.io/publication/2016_steen_priming/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title></title>
-      <link>/authors/lquigley/</link>
+      <link>https://adsteen.github.io/authors/lquigley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/lquigley/</guid>
+      <guid>https://adsteen.github.io/authors/lquigley/</guid>
       <description>&lt;p&gt;Lauren earned her Ph.D. in Microbiology at the University of Tennessee - Knoxville in &lt;a href=&#34;https://sites.google.com/vols.utk.edu/buchanlab/home&#34; target=&#34;_blank&#34;&gt;Dr. Alison Buchan&amp;rsquo;s lab&lt;/a&gt;, with Dr. Steen as a co-advisor. Since graduating in 2018, she completed a postdoctoral appointment at the &lt;a href=&#34;https://forsyth.org&#34; target=&#34;_blank&#34;&gt;Forsyth Institute&lt;/a&gt; in Boston, and now works in industry.&lt;/p&gt;
 </description>
     </item>
