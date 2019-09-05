@@ -3,208 +3,228 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adsteen.github.io/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/project/meta-analyses/</loc>
+    <loc>/project/meta-analyses/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/project/extracellular_enzymes/</loc>
+    <loc>/project/extracellular_enzymes/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/project/outreach/</loc>
+    <loc>/project/outreach/</loc>
     <lastmod>2019-09-04T16:28:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/project/</loc>
-    <lastmod>2019-09-04T16:28:24-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/tags/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/tags/bioinformatics/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/tags/geochemistry/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/tags/outreach/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-09-04T16:28:24-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/publication_types/2/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/authors/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication/2016_steen_priming/</loc>
-    <lastmod>2016-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication_types/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/tags/source-themes/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication/2015_michalska_et_al/</loc>
-    <lastmod>2015-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</loc>
-    <lastmod>2019-09-04T17:15:12-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/abarrett/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/admin/</loc>
+    <loc>/project/permafrost/</loc>
     <lastmod>2019-09-04T16:28:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/authors/alonergan/</loc>
+    <loc>/tags/bioinformatics/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/ccook62/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/lmullen/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/lpate/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/mmiles/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/rspaulding/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/authors/troyalty/</loc>
-    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adsteen.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/courses/</loc>
+    <loc>/tags/geochemistry/</loc>
+    <lastmod>2019-09-04T16:28:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/outreach/</loc>
+    <lastmod>2019-09-04T16:28:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/post/</loc>
+    <loc>/terms/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/publication/</loc>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2016_steen_priming/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/2015_steen_et_al_subs_specificity/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adsteen.github.io/talk/</loc>
+    <loc>/publication/2015_michalska_et_al/</loc>
+    <lastmod>2019-09-04T17:29:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013_arnosti_et_al_review/</loc>
+    <lastmod>2019-09-04T17:29:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2014_cardman_et_al_verrucomicrobia/</loc>
+    <lastmod>2019-09-04T17:29:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013_lloyd_et_al_metaanalysis/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abarrett/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-04T16:28:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alonergan/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ccook62/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lmullen/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lpate/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lquigley/</loc>
+    <lastmod>2019-09-04T23:16:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mmiles/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rspaulding/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/troyalty/</loc>
+    <lastmod>2019-09-04T23:08:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
   </url>
   
