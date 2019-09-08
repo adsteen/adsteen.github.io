@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lmach | Steen Lab</title>
+    <link>https://adsteen.github.io/authors/lmach/</link>
+      <atom:link href="https://adsteen.github.io/authors/lmach/index.xml" rel="self" type="application/rss+xml" />
+    <description>lmach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>lmach</title>
+      <link>https://adsteen.github.io/authors/lmach/</link>
+    </image>
+    
+    <item>
+      <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
+      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

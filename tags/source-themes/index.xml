@@ -5,12 +5,20 @@
     <link>https://adsteen.github.io/tags/source-themes/</link>
       <atom:link href="https://adsteen.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Source Themes</title>
       <link>https://adsteen.github.io/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
+      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding Electrochemically Activated Persulfate and Its Application to Ciprofloxacin Abatement</title>

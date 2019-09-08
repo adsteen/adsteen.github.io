@@ -24,7 +24,7 @@
   
   <url>
     <loc>https://adsteen.github.io/</loc>
-    <lastmod>2019-09-06T16:47:21-04:00</lastmod>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,7 +62,7 @@
   
   <url>
     <loc>https://adsteen.github.io/tags/</loc>
-    <lastmod>2019-09-06T16:47:21-04:00</lastmod>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,25 +91,36 @@
   
   <url>
     <loc>https://adsteen.github.io/publication_types/2/</loc>
-    <lastmod>2019-09-06T09:42:41-04:00</lastmod>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/authors/</loc>
-    <lastmod>2019-09-06T09:42:41-04:00</lastmod>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://adsteen.github.io/publication/2019_quigley_interactivity/</loc>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adsteen.github.io/publication_types/</loc>
-    <lastmod>2019-09-06T09:42:41-04:00</lastmod>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/tags/source-themes/</loc>
-    <lastmod>2019-09-06T09:42:41-04:00</lastmod>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adsteen.github.io/authors/lmach/</loc>
+    <lastmod>2019-09-08T08:27:32-04:00</lastmod>
     <priority>0</priority>
   </url>
   
