@@ -2,46 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes | Steen Lab</title>
-    <link>https://adsteen.github.io/tags/source-themes/</link>
-      <atom:link href="https://adsteen.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Source Themes</title>
-      <link>https://adsteen.github.io/tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
     </image>
     
     <item>
+      <title>Carbon in the deep biosphere: forms, fates, and biogeochemical cycling</title>
+      <link>/publication/2019_lang_et_al_chapter/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_lang_et_al_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncultured microbial phyla suggest mechanisms for multi-thousand-year subsistence in Baltic Sea sediments</title>
+      <link>/publication/2019_bird_et_al_baltic/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_bird_et_al_baltic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
-      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
+      <link>/publication/2019_quigley_interactivity/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
+      <guid>/publication/2019_quigley_interactivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Electrochemically Activated Persulfate and Its Application to Ciprofloxacin Abatement</title>
-      <link>https://adsteen.github.io/publication/2018_matzek_persulfate/</link>
+      <link>/publication/2018_matzek_persulfate/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2018_matzek_persulfate/</guid>
+      <guid>/publication/2018_matzek_persulfate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential Activities of Freshwater Exo- and Endo-Acting Extracellular Peptidases in East Tennessee and the Pocono Mountains</title>
-      <link>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</link>
+      <link>/publication/2018_mullen_et_al_mxshs/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</guid>
+      <guid>/publication/2018_mullen_et_al_mxshs/</guid>
       <description>&lt;p&gt;This paper is a special one: it is our first paper out of the Malcolm X Shabazz Aquatic Geochemistry Team project. More than 60 studens from Malcolm X Shabazz High School contributed to the data collection effort, and all of them are named individually in the paper. Kim Boerrigter, who acted as a student leader of the team, earned individual authorship. Since publication, more than 40 additional students have taken part in the Team, and we continue to produce research and work towards a second publication.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sequential bioavailability of sedimentary organic matter to heterotrophic bacteria</title>
-      <link>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</link>
+      <link>/publication/2017_mahmoudi_isocarb/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</guid>
+      <guid>/publication/2017_mahmoudi_isocarb/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -59,9 +75,9 @@
     
     <item>
       <title>Evidence for the Priming Effect in a Planktonic Estuarine Microbial Community</title>
-      <link>https://adsteen.github.io/publication/2016_steen_priming/</link>
+      <link>/publication/2016_steen_priming/</link>
       <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2016_steen_priming/</guid>
+      <guid>/publication/2016_steen_priming/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -79,9 +95,9 @@
     
     <item>
       <title>Substrate specificity of aquatic extracellular peptidases assessed by competitive inhibition assays using synthetic substrates</title>
-      <link>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</link>
+      <link>/publication/2015_steen_et_al_subs_specificity/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</guid>
+      <guid>/publication/2015_steen_et_al_subs_specificity/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -99,9 +115,9 @@
     
     <item>
       <title>New aminopeptidase from “microbial dark matter” archaeon</title>
-      <link>https://adsteen.github.io/publication/2015_michalska_et_al/</link>
+      <link>/publication/2015_michalska_et_al/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2015_michalska_et_al/</guid>
+      <guid>/publication/2015_michalska_et_al/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -118,9 +134,9 @@
     
     <item>
       <title>Extracellular enzymes in terrestrial, freshwater, and marine environments: Perspectives on system variability and common research needs</title>
-      <link>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</link>
+      <link>/publication/2013_arnosti_et_al_review/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</guid>
+      <guid>/publication/2013_arnosti_et_al_review/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -139,9 +155,9 @@
     
     <item>
       <title>Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard</title>
-      <link>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</link>
+      <link>/publication/2014_cardman_et_al_verrucomicrobia/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</guid>
+      <guid>/publication/2014_cardman_et_al_verrucomicrobia/</guid>
       <description>&lt;p&gt;Cool thing about this paper: Lead author Zena Cardman was an undergraduate student in the &lt;a href=&#34;https://marine.unc.edu/research/traditional-disciplines/biological-oceanography/teske-lab-research/&#34; target=&#34;_blank&#34;&gt;Teske Lab&lt;/a&gt; at UNC when she did this work. Besides being an all-around awesome person, she is now a &lt;a href=&#34;https://www.nasa.gov/astronauts/biographies/zena-cardman&#34; target=&#34;_blank&#34;&gt;NASA Astronaut Candidate&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -161,9 +177,9 @@
     
     <item>
       <title>Meta-Analysis of Quantification Methods Shows that Archaea and Bacteria Have Similar Abundances in the Subseafloor</title>
-      <link>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</link>
+      <link>/publication/2013_lloyd_et_al_metaanalysis/</link>
       <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</guid>
+      <guid>/publication/2013_lloyd_et_al_metaanalysis/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -181,9 +197,9 @@
     
     <item>
       <title>Phylogenetically Novel Uncultured Microbial Cells Dominate Earth Microbiomes</title>
-      <link>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</link>
+      <link>/publication/2018_lloyd_et_al_uncultured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</guid>
+      <guid>/publication/2018_lloyd_et_al_uncultured/</guid>
       <description></description>
     </item>
     
