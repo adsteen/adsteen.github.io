@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>/authors/zstooksbury/</link>
-      <atom:link href="/authors/zstooksbury/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/zstooksbury/</link>
+      <atom:link href="https://adsteen.github.io/authors/zstooksbury/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>/authors/zstooksbury/</link>
+      <link>https://adsteen.github.io/authors/zstooksbury/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/zstooksbury/</link>
+      <link>https://adsteen.github.io/authors/zstooksbury/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/zstooksbury/</guid>
+      <guid>https://adsteen.github.io/authors/zstooksbury/</guid>
       <description>&lt;p&gt;Zach has been with the lab since 2017, during which time he has investigated the priming effect in Tennessee waterways near Knoxville, TN. Zach is also working on a project exploring the role of factors like extracellular enzyme activities, sediment grain size, mineralogy, and manganese speciation on the preservation of proteinaceous organic matter in sediments of the White Oak River estuary, NC.&lt;/p&gt;
 </description>
     </item>
