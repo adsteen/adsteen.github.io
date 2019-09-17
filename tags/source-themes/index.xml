@@ -5,12 +5,20 @@
     <link>https://adsteen.github.io/tags/source-themes/</link>
       <atom:link href="https://adsteen.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Source Themes</title>
       <link>https://adsteen.github.io/tags/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
+      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC</title>
