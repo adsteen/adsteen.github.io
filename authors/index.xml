@@ -5,12 +5,28 @@
     <link>https://adsteen.github.io/authors/</link>
       <atom:link href="https://adsteen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 16:55:35 -0400</lastBuildDate>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Authors</title>
       <link>https://adsteen.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Magdalena R. Osburn</title>
+      <link>https://adsteen.github.io/authors/magdalena-r.-osburn/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/magdalena-r.-osburn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susan Q. Lang</title>
+      <link>https://adsteen.github.io/authors/susan-q.-lang/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/susan-q.-lang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -83,6 +99,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/mmiles/</guid>
       <description>&lt;p&gt;Maryn has been in the lab since 2018, during which time she has performed a bioinformatic study of the presence of genes for sulfoquinovose degradation in marine sediments, and participated in a two-week research cruise in the North Atlantic Gyre.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/pmather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/pmather/</guid>
+      <description>&lt;p&gt;I graduated from the University of Tennessee, Knoxville in 2016 with a BS in Geology and Environmental Studies. I am in the process of getting a Juris Doctor Degree from Vermont Law School with a graduation date of May 16, 2020. My goal is to take the Bar Exam in July of the same year. I am interested in the fields of Natural Resource Management, specifically concerning water availability issues. My second passion is education and assisting post-secondary institutions to provide the best quality education and services to the students that attend them.&lt;/p&gt;
 </description>
     </item>
     
