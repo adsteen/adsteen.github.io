@@ -5,12 +5,20 @@
     <link>https://adsteen.github.io/publication/</link>
       <atom:link href="https://adsteen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Publications</title>
       <link>https://adsteen.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Patterns in extracellular enzyme activity and microbial diversity in deep-sea Mediterranean sediments</title>
+      <link>https://adsteen.github.io/publication/2020_mahmoudi_med/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2020_mahmoudi_med/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carbon in the deep biosphere: forms, fates, and biogeochemical cycling</title>

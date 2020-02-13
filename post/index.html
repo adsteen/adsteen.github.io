@@ -461,12 +461,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/on-the-fallacy-of-the-work-life-balance/"  itemprop="url">On the fallacy of the work-life balance</a>
+      <a href="/post/drew-learns-statistics-linear-models-with-a-sparse-predictor/"  itemprop="url">Linear models with a sparse predictor</a>
     </h3>
 
     
     <div class="article-style" itemprop="articleBody">
-      A little while ago I was asked by C-DEBI to give a webinar* for their Professional Development Series on work-life balance. Now, I …
+      {{ if and (not .Params.disable_mathjax) (or (in (string .Content) &ldquo;\&rdquo;) (in (string .Content) &ldquo;$&rdquo;)) }}   {{ end …
     </div>
     
 
@@ -479,23 +479,11 @@
 
 
 
-<meta content="2019-11-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-11-22 09:43:51 -0500 EST" itemprop="dateModified">
+<meta content="2020-01-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-01-22 14:02:09 -0500 EST" itemprop="dateModified">
 
 <div class="article-metadata">
 
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Drew Steen</a></span>
-
-  </div>
   
   
 
@@ -507,7 +495,7 @@
           Last updated on
       
     
-    <time>Nov 22, 2019</time>
+    <time>Jan 22, 2020</time>
   </span>
   
 
@@ -558,14 +546,20 @@
 
 
 
+  
+
 
 <div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/thoughts-on-culturability-controversy/"  itemprop="url">Thoughts on Cultuturability Controversy</a>
+      <a href="/post/on-the-fallacy-of-the-work-life-balance/"  itemprop="url">On the fallacy of the work-life balance</a>
     </h3>
 
+    
+    <div class="article-style" itemprop="articleBody">
+      A little while ago I was asked by C-DEBI to give a webinar* for their Professional Development Series on work-life balance. Now, I …
+    </div>
     
 
     <div class="stream-meta article-metadata">
@@ -577,7 +571,7 @@
 
 
 
-<meta content="2019-10-02 16:55:35 -0400 EDT" itemprop="datePublished">
+<meta content="2019-11-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">
 <meta content="2019-11-22 09:43:51 -0500 EST" itemprop="dateModified">
 
 <div class="article-metadata">
@@ -758,7 +752,7 @@
   
 
   <p class="powered-by">
-    &copy; 2019 &middot; 
+    &copy; 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
