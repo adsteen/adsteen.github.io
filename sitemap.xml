@@ -24,48 +24,53 @@
   
   <url>
     <loc>https://adsteen.github.io/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://adsteen.github.io/lab-resources/marie/</loc>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adsteen.github.io/publication_types/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/authors/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/publication/2020_mahmoudi_med/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/publication_types/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/tags/source-themes/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/tags/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://adsteen.github.io/post/drew-learns-statistics-linear-models-with-a-sparse-predictor/</loc>
-    <lastmod>2020-01-22T14:02:09-05:00</lastmod>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
   </url>
   
   <url>
@@ -310,6 +315,11 @@
   <url>
     <loc>https://adsteen.github.io/courses/</loc>
     <lastmod>2019-09-04T14:07:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adsteen.github.io/lab-resources/</loc>
+    <lastmod>2020-06-06T12:48:10-04:00</lastmod>
   </url>
   
   <url>
