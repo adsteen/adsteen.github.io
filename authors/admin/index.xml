@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/admin/</link>
+      <atom:link href="https://adsteen.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>/authors/admin/</link>
+      <link>https://adsteen.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title>Patterns in extracellular enzyme activity and microbial diversity in deep-sea Mediterranean sediments</title>
-      <link>/publication/2020_mahmoudi_med/</link>
+      <link>https://adsteen.github.io/publication/2020_mahmoudi_med/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020_mahmoudi_med/</guid>
+      <guid>https://adsteen.github.io/publication/2020_mahmoudi_med/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the fallacy of the work-life balance</title>
-      <link>/post/on-the-fallacy-of-the-work-life-balance/</link>
+      <link>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/on-the-fallacy-of-the-work-life-balance/</guid>
+      <guid>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</guid>
       <description>&lt;p&gt;A little while ago I was asked by &lt;a href=&#34;https://www.darkenergybiosphere.org/&#34; target=&#34;_blank&#34;&gt;C-DEBI&lt;/a&gt; to give a webinar* for their &lt;a href=&#34;https://www.darkenergybiosphere.org/outputs-resources/professional-development-webinar-series/&#34; target=&#34;_blank&#34;&gt;Professional Development Series&lt;/a&gt; on work-life balance. Now, I can&amp;rsquo;t claim to have any particular insight into that subject, but while I was preparing for it, I did stumble on an idea that has stuck with me: &lt;strong&gt;the idea of &amp;lsquo;work-life balance&amp;rsquo; is totally the wrong frame&lt;/strong&gt; for how to think about allocating our time between research and non-research stuff.&lt;/p&gt;
 
 &lt;p&gt;The reason for this is that our work is part of our lives. Why do I do science for a living? For me, and for most of us I suspect, there are two reasons:&lt;/p&gt;
@@ -53,108 +53,108 @@
     </item>
     
     <item>
-      <title>Thoughts on Cultuturability Controversy</title>
-      <link>/post/thoughts-on-culturability-controversy/</link>
-      <pubDate>Wed, 02 Oct 2019 16:55:35 -0400</pubDate>
-      <guid>/post/thoughts-on-culturability-controversy/</guid>
-      <description>&lt;p&gt;I was recently involved in a back-and-forth in the literature with &lt;a href=&#34;https://www.ess.uci.edu/group/amartiny/home&#34; target=&#34;_blank&#34;&gt;Adam Martiny&lt;/a&gt; of UC-Irvine on the subject of what fraction of cells on Earth have been cultured. Adam wrote a &lt;a href=&#34;https://www.nature.com/articles/s41396-019-0410-3&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; in ISME J arguing that something like half of bacteria in some common environments had a species-level relative that&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Carbon in the deep biosphere: forms, fates, and biogeochemical cycling</title>
-      <link>/publication/2019_lang_et_al_chapter/</link>
+      <link>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_lang_et_al_chapter/</guid>
+      <guid>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
-      <link>/publication/2019_senter_alignment/</link>
+      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_senter_alignment/</guid>
+      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC</title>
-      <link>/publication/2019_royalty_partitioning/</link>
+      <link>https://adsteen.github.io/publication/2019_royalty_partitioning/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_royalty_partitioning/</guid>
+      <guid>https://adsteen.github.io/publication/2019_royalty_partitioning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polysaccharide hydrolysis in the presence of oil and dispersants: Insights into potential degradation pathways of exopolymeric substances (EPS) from oil-degrading bacteria</title>
-      <link>/publication/2019_ziervogel_snow/</link>
+      <link>https://adsteen.github.io/publication/2019_ziervogel_snow/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_ziervogel_snow/</guid>
+      <guid>https://adsteen.github.io/publication/2019_ziervogel_snow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theoretical and Simulation-Based Investigation of the Relationship between Sequencing Effort, Microbial Community Richness, and Diversity in Binning Metagenome-Assembled Genomes</title>
-      <link>/publication/2019_royalty_steen_mags/</link>
+      <link>https://adsteen.github.io/publication/2019_royalty_steen_mags/</link>
       <pubDate>Tue, 06 Aug 2019 00:06:00 +0000</pubDate>
-      <guid>/publication/2019_royalty_steen_mags/</guid>
+      <guid>https://adsteen.github.io/publication/2019_royalty_steen_mags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High proportions of bacteria and archaea across most biomes remain uncultured</title>
-      <link>/publication/2019_steen_et_al_isme/</link>
+      <link>https://adsteen.github.io/publication/2019_steen_et_al_isme/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_steen_et_al_isme/</guid>
+      <guid>https://adsteen.github.io/publication/2019_steen_et_al_isme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina</title>
-      <link>/publication/2019_steen_et_al_wor_enz/</link>
+      <link>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_steen_et_al_wor_enz/</guid>
+      <guid>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncultured microbial phyla suggest mechanisms for multi-thousand-year subsistence in Baltic Sea sediments</title>
-      <link>/publication/2019_bird_et_al_baltic/</link>
+      <link>https://adsteen.github.io/publication/2019_bird_et_al_baltic/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_bird_et_al_baltic/</guid>
+      <guid>https://adsteen.github.io/publication/2019_bird_et_al_baltic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
-      <link>/publication/2019_quigley_interactivity/</link>
+      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_quigley_interactivity/</guid>
+      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Electrochemically Activated Persulfate and Its Application to Ciprofloxacin Abatement</title>
-      <link>/publication/2018_matzek_persulfate/</link>
+      <link>https://adsteen.github.io/publication/2018_matzek_persulfate/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_matzek_persulfate/</guid>
+      <guid>https://adsteen.github.io/publication/2018_matzek_persulfate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential Activities of Freshwater Exo- and Endo-Acting Extracellular Peptidases in East Tennessee and the Pocono Mountains</title>
-      <link>/publication/2018_mullen_et_al_mxshs/</link>
+      <link>https://adsteen.github.io/publication/2018_lloyd_et_all_cells_metaanalysis/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_mullen_et_al_mxshs/</guid>
+      <guid>https://adsteen.github.io/publication/2018_lloyd_et_all_cells_metaanalysis/</guid>
+      <description>&lt;p&gt;This paper is a special one: it is our first paper out of the Malcolm X Shabazz Aquatic Geochemistry Team project. More than 60 studens from Malcolm X Shabazz High School contributed to the data collection effort, and all of them are named individually in the paper. Kim Boerrigter, who acted as a student leader of the team, earned individual authorship. Since publication, more than 40 additional students have taken part in the Team, and we continue to produce research and work towards a second publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Potential Activities of Freshwater Exo- and Endo-Acting Extracellular Peptidases in East Tennessee and the Pocono Mountains</title>
+      <link>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</guid>
       <description>&lt;p&gt;This paper is a special one: it is our first paper out of the Malcolm X Shabazz Aquatic Geochemistry Team project. More than 60 studens from Malcolm X Shabazz High School contributed to the data collection effort, and all of them are named individually in the paper. Kim Boerrigter, who acted as a student leader of the team, earned individual authorship. Since publication, more than 40 additional students have taken part in the Team, and we continue to produce research and work towards a second publication.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sequential bioavailability of sedimentary organic matter to heterotrophic bacteria</title>
-      <link>/publication/2017_mahmoudi_isocarb/</link>
+      <link>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017_mahmoudi_isocarb/</guid>
+      <guid>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -172,9 +172,9 @@
     
     <item>
       <title>Evidence for the Priming Effect in a Planktonic Estuarine Microbial Community</title>
-      <link>/publication/2016_steen_priming/</link>
+      <link>https://adsteen.github.io/publication/2016_steen_priming/</link>
       <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016_steen_priming/</guid>
+      <guid>https://adsteen.github.io/publication/2016_steen_priming/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -192,9 +192,9 @@
     
     <item>
       <title>Substrate specificity of aquatic extracellular peptidases assessed by competitive inhibition assays using synthetic substrates</title>
-      <link>/publication/2015_steen_et_al_subs_specificity/</link>
+      <link>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_steen_et_al_subs_specificity/</guid>
+      <guid>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -212,9 +212,9 @@
     
     <item>
       <title>New aminopeptidase from “microbial dark matter” archaeon</title>
-      <link>/publication/2015_michalska_et_al/</link>
+      <link>https://adsteen.github.io/publication/2015_michalska_et_al/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015_michalska_et_al/</guid>
+      <guid>https://adsteen.github.io/publication/2015_michalska_et_al/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -231,9 +231,9 @@
     
     <item>
       <title>Extracellular enzymes in terrestrial, freshwater, and marine environments: Perspectives on system variability and common research needs</title>
-      <link>/publication/2013_arnosti_et_al_review/</link>
+      <link>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2013_arnosti_et_al_review/</guid>
+      <guid>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -252,9 +252,9 @@
     
     <item>
       <title>Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard</title>
-      <link>/publication/2014_cardman_et_al_verrucomicrobia/</link>
+      <link>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014_cardman_et_al_verrucomicrobia/</guid>
+      <guid>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</guid>
       <description>&lt;p&gt;Cool thing about this paper: Lead author Zena Cardman was an undergraduate student in the &lt;a href=&#34;https://marine.unc.edu/research/traditional-disciplines/biological-oceanography/teske-lab-research/&#34; target=&#34;_blank&#34;&gt;Teske Lab&lt;/a&gt; at UNC when she did this work. Besides being an all-around awesome person, she is now a &lt;a href=&#34;https://www.nasa.gov/astronauts/biographies/zena-cardman&#34; target=&#34;_blank&#34;&gt;NASA Astronaut Candidate&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -274,9 +274,9 @@
     
     <item>
       <title>Meta-Analysis of Quantification Methods Shows that Archaea and Bacteria Have Similar Abundances in the Subseafloor</title>
-      <link>/publication/2013_lloyd_et_al_metaanalysis/</link>
+      <link>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</link>
       <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/2013_lloyd_et_al_metaanalysis/</guid>
+      <guid>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -294,18 +294,18 @@
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://adsteen.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://adsteen.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Drew Steen is interested in microbe-organic matter interactions in aquatic environments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phylogenetically Novel Uncultured Microbial Cells Dominate Earth Microbiomes</title>
-      <link>/publication/2018_lloyd_et_al_uncultured/</link>
+      <link>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/2018_lloyd_et_al_uncultured/</guid>
+      <guid>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</guid>
       <description></description>
     </item>
     
