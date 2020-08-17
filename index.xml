@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>https://adsteen.github.io/</link>
-      <atom:link href="https://adsteen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>https://adsteen.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://adsteen.github.io/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://adsteen.github.io/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://adsteen.github.io/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://adsteen.github.io/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://adsteen.github.io/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -107,9 +107,9 @@
     
     <item>
       <title>marie quickstart</title>
-      <link>https://adsteen.github.io/lab-resources/marie/</link>
+      <link>/lab-resources/marie/</link>
       <pubDate>Sat, 06 Jun 2020 12:29:43 -0400</pubDate>
-      <guid>https://adsteen.github.io/lab-resources/marie/</guid>
+      <guid>/lab-resources/marie/</guid>
       <description>
 
 &lt;p&gt;The SteenLab server is named marie for Marie Tharp, a pioneering oceanographer who used sounding data collected by others to create the first high-quality bathymetric map of the world&amp;rsquo;s oceans. In that spirit, we hope that you will use marie to gain a new understanding of how the planet and the microbial world work.&lt;/p&gt;
@@ -182,17 +182,179 @@
     
     <item>
       <title>Patterns in extracellular enzyme activity and microbial diversity in deep-sea Mediterranean sediments</title>
-      <link>https://adsteen.github.io/publication/2020_mahmoudi_med/</link>
+      <link>/publication/2020_mahmoudi_med/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2020_mahmoudi_med/</guid>
+      <guid>/publication/2020_mahmoudi_med/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Linear models with a sparse predictor</title>
+      <link>/post/drew-learns-statistics-linear-models-with-a-sparse-predictor/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/drew-learns-statistics-linear-models-with-a-sparse-predictor/</guid>
+      <description>
+
+&lt;p&gt;{{ if and (not .Params.disable_mathjax) (or (in (string .Content) &amp;ldquo;\&amp;rdquo;) (in (string .Content) &amp;ldquo;$&amp;rdquo;)) }}
+&lt;script src=&#34;{{ &#34;/js/math-code.js&#34; | relURL }}&#34;&gt;&lt;/script&gt;
+&lt;script async src=&#34;{{ .Site.Params.MathJaxCDN | default &#34;//cdnjs.cloudflare.com/ajax/libs&#34; }}/mathjax/{{ .Site.Params.MathJaxVersion | default &#34;2.7.5&#34; }}/MathJax.js?config=TeX-MML-AM_CHTML&#34;&gt;&lt;/script&gt;
+{{ end }}&lt;/p&gt;
+
+&lt;h1 id=&#34;i-want-to-buy-a-sweet-ride-sup-1-sup&#34;&gt;I want to buy a sweet ride&lt;sup&gt;[1]&lt;/sup&gt;&lt;/h1&gt;
+
+&lt;p&gt;I spent some time over the weekend thinking about statistical models of
+car prices, because I’m a Cool Guy and I do this kind of thing
+for fun, and also to procrastinate from real work.&lt;/p&gt;
+
+&lt;p&gt;Specifically, I’m interested in how to predict the sales price of
+unusual/classic cars on a well-known car auction site, which I won’t
+name because doing this sort of thing may not 100% fit within their
+terms of service. Obviously, the mileage of a car is a strong
+determinant of its sales price: lower mileage cars are more expensive
+than high-mileage cars. We could describe this with a simple linear
+model([2]):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;price = *β*&amp;lt;sub&amp;gt;0&amp;lt;/sub&amp;gt; + *β*&amp;lt;sub&amp;gt;1&amp;lt;/sub&amp;gt; ⋅ mileage + *ϵ*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;But the cars I’m interested in have pretty weird histories: they often
+have had engines swapped, or odometers rolled over, or some other funny
+business such that their actual mileage is not known. Buyers hate this.
+&lt;strong&gt;I’d really like to know how big of a discount buyers demand for not
+knowing a car’s mileage.&lt;/strong&gt; The problem is that formally speaking, we
+can’t write a single model for this, because mileage doesn’t have a
+value when mileage is unknown. So I’m looking for a way to encode the
+model&lt;/p&gt;
+
+&lt;p&gt;$$
+\textrm{price} = \beta_0 + \left\{
+  \begin{array}{ll}
+    \beta_1 \cdot \textrm{mileage} &amp;amp; : \textrm{mileage known}\&lt;br /&gt;
+    \beta_{1&amp;rsquo;} \cdot \textrm{mileage} &amp;amp; : \textrm{mileage unknown}&lt;br /&gt;
+    \end{array} \right\} + \epsilon
+$$&lt;/p&gt;
+
+&lt;p&gt;[@Jeff_Jetton](&lt;a href=&#34;https://twitter.com/Jeff_Jetton&#34; class=&#34;uri&#34;&gt;&lt;a href=&#34;https://twitter.com/Jeff_Jetton&#34; target=&#34;_blank&#34;&gt;https://twitter.com/Jeff_Jetton&lt;/a&gt;&lt;/a&gt;),
+[@pbulsink](&lt;a href=&#34;https://twitter.com/pbulsink&#34; class=&#34;uri&#34;&gt;&lt;a href=&#34;https://twitter.com/pbulsink&#34; target=&#34;_blank&#34;&gt;https://twitter.com/pbulsink&lt;/a&gt;&lt;/a&gt;),
+and
+[@Hao_and_Y](&lt;a href=&#34;https://twitter.com/Hao_and_Y&#34; class=&#34;uri&#34;&gt;&lt;a href=&#34;https://twitter.com/Hao_and_Y&#34; target=&#34;_blank&#34;&gt;https://twitter.com/Hao_and_Y&lt;/a&gt;&lt;/a&gt;)
+kindly &lt;a href=&#34;https://twitter.com/biogeobiochem/status/1219267790563151884&#34; target=&#34;_blank&#34;&gt;led
+me&lt;/a&gt; via
+Twitter to a solution that seems mathematically correct and is easy to
+code, which I want to archive here.&lt;/p&gt;
+
+&lt;p&gt;They converged on the idea of setting mileage to 0 whenever it is
+missing, and then creating a second variable for ‘mileage missing’, with
+its own coefficient, so the linear model would look like this:&lt;/p&gt;
+
+&lt;p&gt;price = &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;0&lt;/sub&gt; + &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; ⋅ mileage + &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;1′&lt;/sub&gt; ⋅ mileage unknown + &lt;em&gt;ϵ&lt;/em&gt;
+ Cool, I can write an R formula that encodes that model!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;mod &amp;lt;- lm(mileage + mileage.unknown, data = my_df)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In this model, *b&lt;strong&gt;e&lt;/strong&gt;t*&lt;em&gt;a&lt;/em&gt;&lt;sub&gt;0&lt;/sub&gt; represents the ‘base’ price of a
+car (before mileage, and any other potential variables I might want to
+include in my model, are considered). &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; is the rate at
+which the car loses value per mile, and &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;1′&lt;/sub&gt; is the discount
+buyers demand for a car of unknown mileage.&lt;/p&gt;
+
+&lt;h2 id=&#34;does-it-work&#34;&gt;Does it work?&lt;/h2&gt;
+
+&lt;p&gt;Just to be sure, I’ll create some simulated data and see whether I can
+recover reasonable values. I’ll set &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;0&lt;/sub&gt; to $10,000,
+&lt;em&gt;β&lt;/em&gt;&lt;sub&gt;1&lt;/sub&gt; to -$0.005, and &lt;em&gt;β&lt;/em&gt;&lt;sub&gt;1′&lt;/sub&gt; to -$2,500.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;library(tidyverse)
+
+set.seed(944)
+mileage &amp;lt;- runif(n = 100, min = 0, max = 1e6) # Random distribution of mileages
+mileage.penalty &amp;lt;- -0.005 
+mileage.known &amp;lt;- sample(c(TRUE, FALSE), size = 100, replace = TRUE) # Random cars have &amp;quot;unknown&amp;quot; mileage
+mileage[!mileage.known] &amp;lt;- 0 # Those with unknown mileage are set to 0
+base.price &amp;lt;- 1e4
+TMU.penalty &amp;lt;- -5e3
+
+# Calculate the price according to the formula I defined above &amp;amp; add noice
+price &amp;lt;- base.price + mileage.penalty*mileage*mileage.known + TMU.penalty*(!mileage.known) + rnorm(length(mileage), mean = 0, sd = 200)
+
+# Put the relevant data in a data frame
+df &amp;lt;- data.frame(price, mileage, mileage.known)
+glimpse(df)
+
+## Observations: 100
+## Variables: 3
+## $ price         &amp;lt;dbl&amp;gt; 5249.511, 8888.228, 9772.401, 8241.758, 4910.818, …
+## $ mileage       &amp;lt;dbl&amp;gt; 0.00, 214497.43, 75515.27, 402734.43, 0.00, 0.00, …
+## $ mileage.known &amp;lt;lgl&amp;gt; FALSE, TRUE, TRUE, TRUE, FALSE, FALSE, TRUE, FALSE…
+
+ggplot(df, aes(x = mileage, y = price, colour = mileage.known)) + 
+  geom_point() + 
+  expand_limits(ymin = 0) + 
+  theme_minimal()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;944_blog_post_files/figure-markdown_strict/unnamed-chunk-2-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;mod &amp;lt;- lm(price ~ mileage+mileage.known)
+summary(mod)
+
+## 
+## Call:
+## lm(formula = price ~ mileage + mileage.known)
+## 
+## Residuals:
+##     Min      1Q  Median      3Q     Max 
+## -459.18 -121.87   -5.52  134.82  502.89 
+## 
+## Coefficients:
+##                     Estimate Std. Error t value Pr(&amp;gt;|t|)    
+## (Intercept)        4.975e+03  2.826e+01  176.08   &amp;lt;2e-16 ***
+## mileage           -5.151e-03  9.815e-05  -52.49   &amp;lt;2e-16 ***
+## mileage.knownTRUE  5.124e+03  5.640e+01   90.85   &amp;lt;2e-16 ***
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+## 
+## Residual standard error: 191.6 on 97 degrees of freedom
+## Multiple R-squared:  0.9889, Adjusted R-squared:  0.9887 
+## F-statistic:  4337 on 2 and 97 DF,  p-value: &amp;lt; 2.2e-16
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that the results aren’t quite what I expected: &lt;code&gt;(Intercept)&lt;/code&gt;,
+implying the base case, is $5.000 instead of $10,000. That’s because
+&lt;code&gt;lm()&lt;/code&gt; is taking the ‘base case’ as unknown mileage, and then adding
+extra cost for when mileage is known. Thus, the price of a pristine car
+is really the estimates of &lt;code&gt;(Intercept)&lt;/code&gt; + &lt;code&gt;mileage.knownTRUE&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;maybe-this-isn-t-totally-dumb&#34;&gt;Maybe this isn’t totally dumb&lt;/h1&gt;
+
+&lt;p&gt;So this was a, uh, “fun” way to spend a Sunday evening, but was it a
+total waste of time from a professional standpoint? I think maybe not? I
+can easily imagine environmental data sets in which you’d really like to
+know a response to a continuous variable - say, phytoplankton blooms as
+a function of nutrients - where sometimes you have the data you want
+recorded, and other times you have some qualitative data, like “low” or
+“eutrophied”. This approach is likely to be useful in such a situation.&lt;/p&gt;
+
+&lt;p&gt;In fact, I am reasonable certain that there is a whole literature about
+this problem, but that is &lt;em&gt;well&lt;/em&gt; beyond the scope of a fun weekend
+problem.&lt;/p&gt;
+
+&lt;p&gt;[1] This is the first of some number of posts in which I attempt to
+teach myself statistics in public.&lt;/p&gt;
+
+&lt;p&gt;[2] I would greatly appreciate it if someone could explain to me why
+statisticians looked at the normal equation for a line,
+*y* = *m**x* + &lt;em&gt;b&lt;/em&gt;, and said, “Yeah, we’re going to go in another
+direction on that.”&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>On the fallacy of the work-life balance</title>
-      <link>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</link>
+      <link>/post/on-the-fallacy-of-the-work-life-balance/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</guid>
+      <guid>/post/on-the-fallacy-of-the-work-life-balance/</guid>
       <description>&lt;p&gt;A little while ago I was asked by &lt;a href=&#34;https://www.darkenergybiosphere.org/&#34; target=&#34;_blank&#34;&gt;C-DEBI&lt;/a&gt; to give a webinar* for their &lt;a href=&#34;https://www.darkenergybiosphere.org/outputs-resources/professional-development-webinar-series/&#34; target=&#34;_blank&#34;&gt;Professional Development Series&lt;/a&gt; on work-life balance. Now, I can&amp;rsquo;t claim to have any particular insight into that subject, but while I was preparing for it, I did stumble on an idea that has stuck with me: &lt;strong&gt;the idea of &amp;lsquo;work-life balance&amp;rsquo; is totally the wrong frame&lt;/strong&gt; for how to think about allocating our time between research and non-research stuff.&lt;/p&gt;
 
 &lt;p&gt;The reason for this is that our work is part of our lives. Why do I do science for a living? For me, and for most of us I suspect, there are two reasons:&lt;/p&gt;
@@ -221,66 +383,75 @@
     </item>
     
     <item>
+      <title>Thoughts on Cultuturability Controversy</title>
+      <link>/post/thoughts-on-culturability-controversy/</link>
+      <pubDate>Wed, 02 Oct 2019 16:55:35 -0400</pubDate>
+      <guid>/post/thoughts-on-culturability-controversy/</guid>
+      <description>&lt;p&gt;I was recently involved in a back-and-forth in the literature with &lt;a href=&#34;https://www.ess.uci.edu/group/amartiny/home&#34; target=&#34;_blank&#34;&gt;Adam Martiny&lt;/a&gt; of UC-Irvine on the subject of what fraction of cells on Earth have been cultured. Adam wrote a &lt;a href=&#34;https://www.nature.com/articles/s41396-019-0410-3&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; in ISME J arguing that something like half of bacteria in some common environments had a species-level relative that&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Carbon in the deep biosphere: forms, fates, and biogeochemical cycling</title>
-      <link>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</link>
+      <link>/publication/2019_lang_et_al_chapter/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</guid>
+      <guid>/publication/2019_lang_et_al_chapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
-      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
+      <link>/publication/2019_senter_alignment/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
+      <guid>/publication/2019_senter_alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC</title>
-      <link>https://adsteen.github.io/publication/2019_royalty_partitioning/</link>
+      <link>/publication/2019_royalty_partitioning/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_royalty_partitioning/</guid>
+      <guid>/publication/2019_royalty_partitioning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polysaccharide hydrolysis in the presence of oil and dispersants: Insights into potential degradation pathways of exopolymeric substances (EPS) from oil-degrading bacteria</title>
-      <link>https://adsteen.github.io/publication/2019_ziervogel_snow/</link>
+      <link>/publication/2019_ziervogel_snow/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_ziervogel_snow/</guid>
+      <guid>/publication/2019_ziervogel_snow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theoretical and Simulation-Based Investigation of the Relationship between Sequencing Effort, Microbial Community Richness, and Diversity in Binning Metagenome-Assembled Genomes</title>
-      <link>https://adsteen.github.io/publication/2019_royalty_steen_mags/</link>
+      <link>/publication/2019_royalty_steen_mags/</link>
       <pubDate>Tue, 06 Aug 2019 00:06:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_royalty_steen_mags/</guid>
+      <guid>/publication/2019_royalty_steen_mags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High proportions of bacteria and archaea across most biomes remain uncultured</title>
-      <link>https://adsteen.github.io/publication/2019_steen_et_al_isme/</link>
+      <link>/publication/2019_steen_et_al_isme/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_steen_et_al_isme/</guid>
+      <guid>/publication/2019_steen_et_al_isme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina</title>
-      <link>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</link>
+      <link>/publication/2019_steen_et_al_wor_enz/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</guid>
+      <guid>/publication/2019_steen_et_al_wor_enz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://adsteen.github.io/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;extracellular-enzymes-in-marine-sediments-a-control-on-organic-carbon-preservation&#34;&gt;Extracellular enzymes in marine sediments: A control on organic carbon preservation&lt;/h1&gt;
@@ -457,9 +628,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Bioinformatic meta-analyses</title>
-      <link>https://adsteen.github.io/project/meta-analyses/</link>
+      <link>/project/meta-analyses/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/meta-analyses/</guid>
+      <guid>/project/meta-analyses/</guid>
       <description>&lt;p&gt;DNA and RNA sequence data are being deposited in public repositories at an astonishing rate. The quantity of sequence data in GenBank, for instance, has doubled approximately every 18 months since 1982! This is an extraordinarily rich source of information about microbial life. I argue that it is impossible to use all of the information in a sequence data set in a single study, and further that we can learn a lot by combining data from disparate studies that were not initially intended to be compared.&lt;/p&gt;
 
 &lt;p&gt;One line of research in the Steen Lab has been to see what we can learn from public data sets. We have helped to quantify the number of uncultured cells on Earth, the degree to which microbial traits are conserved as a function of taxonomic rank, and the relationship between DNA sequencing effort and the quantity of metagenome-assembled genomes (MAGs) that can be obtained.&lt;/p&gt;
@@ -468,18 +639,18 @@ $$&lt;/p&gt;
     
     <item>
       <title>Extracellular enzymes</title>
-      <link>https://adsteen.github.io/project/extracellular_enzymes/</link>
+      <link>/project/extracellular_enzymes/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/extracellular_enzymes/</guid>
+      <guid>/project/extracellular_enzymes/</guid>
       <description>&lt;p&gt;Most of the molecules that organisms synthesize are polymeric, and so most of the bioavailable organic matter in the environment consists of high-molecular weight molecules. In order to access these molecules, heterotrophic microbes must first break them down into smaller units (although there are some intersting, &lt;a href=&#34;https://www.nature.com/articles/ismej201726&#34; target=&#34;_blank&#34;&gt;newly-discovered exceptions&lt;/a&gt; to this rule.) Thus, the ability of microbial communities to express extracellular enzymes, and the dynamics of those enzymes once produced, serve as a proximate control on the remineralization of organic matter, and thus the Earth&amp;rsquo;s carbon cycle. We study the nature, dynamics, and controls on microbial extracellular enzymes in aquatic environments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Outreach</title>
-      <link>https://adsteen.github.io/project/outreach/</link>
+      <link>/project/outreach/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/outreach/</guid>
+      <guid>/project/outreach/</guid>
       <description>&lt;p&gt;Since 2013, the Steen Lab has partnered with students and faculty at &lt;a href=&#34;https://www.nps.k12.nj.us/mxs/&#34; target=&#34;_blank&#34;&gt;Malcolm X Shabazz High School&lt;/a&gt; in Newark, NJ to perform authentic research on the activities and nature of extracellular peptidases present in small freshwater bodies and estuaries. High school students and faculty are true participants in the research, helping to design experiments, collect and process data, and present the research. More than 100 students have participated in this program. Students have participated in writing one &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmicb.2018.00368/full?report=reader&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; about the research, and have presented at four conferences, including twice at the fall meeting of the American Geophysical Union.&lt;/p&gt;
 
 &lt;p&gt;Going forward, we are in the process of expanding this program to work with both rural and urban high schools in East Tennessee.&lt;/p&gt;
@@ -488,9 +659,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Thawing permafrost</title>
-      <link>https://adsteen.github.io/project/permafrost/</link>
+      <link>/project/permafrost/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/permafrost/</guid>
+      <guid>/project/permafrost/</guid>
       <description>&lt;p&gt;Permafrost is one Earth&amp;rsquo;s largest reservoirs of soil organic carbon, and across the Arctic, it is thawing rapidly. As it thaws, microbial processes convert soil organic matter to greenhouse gasses such as CO&lt;sub&gt;2&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt;, and possibly N&lt;sub&gt;2&lt;/sub&gt;O. The enivronmental impact of permafrost thawing will depend greatly on the microbial metabolic processes that drive those transformations, and the relative quantities of greenhouse gasses produced vs organic preserved or exported. In this project, which has been recommended for funding by the Department of Energy, we will use a broad spectrum of techniques, including metagenomics, proteomics, metabolomics, thawing experiments, and geochemical modeling to understand the microbial and biogeochemical dynamics of thawing permafrost in Svalbard. The project team is lead by &lt;a href=&#34;http://lloydlab.utk.edu/&#34; target=&#34;_blank&#34;&gt;Karen Lloyd&lt;/a&gt; of the University of Tennessee Department of Microbiology, and includes Drew Steen and &lt;a href=&#34;https://scholar.google.com/citations?user=dSpoZSkAAAAJ&#34; target=&#34;_blank&#34;&gt;Tatiana Vishnivetskaya&lt;/a&gt;, also of UT-K, &lt;a href=&#34;https://onstott.princeton.edu/faculty-staff/tullis-onstott&#34; target=&#34;_blank&#34;&gt;Tullis Onstott&lt;/a&gt; of Princeton University, &lt;a href=&#34;https://www.ornl.gov/staff-profile/robert-l-hettich&#34; target=&#34;_blank&#34;&gt;Robert Hettich&lt;/a&gt; of Oak Ridge National Laboratory, and &lt;a href=&#34;https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=8381&#34; target=&#34;_blank&#34;&gt;John Cliff&lt;/a&gt; of Pacific Northwest National Lab. Additionally, &lt;a href=&#34;https://www.qmul.ac.uk/geog/staff/bradleyj.html&#34; target=&#34;_blank&#34;&gt;James Bradley&lt;/a&gt; of Queen Mary University, London, &lt;a href=&#34;https://www.awi.de/en/about-us/organisation/staff/julia-boike.html&#34; target=&#34;_blank&#34;&gt;Julia Boike&lt;/a&gt; of the Alfred Wegener Institute, Potsam, and &lt;a href=&#34;http://cryosol.ru/en/abramov-andrey.html&#34; target=&#34;_blank&#34;&gt;Andrey Abramov&lt;/a&gt; of the Russian Academy of Sciences, Puschchino are our international collaborators.&lt;/p&gt;
 
 &lt;p&gt;The Steen Lab&amp;rsquo;s responsibility in this project is to study organic matter-microbe interactions in thawing permafrost using two techniques. First, we will perform assays of extracellular enzymes in experimentally-thawed permafrost soil, which will then be compared to genes encoding extracellular enzymes in the soil communities. Simultaneously, we will create a microbially-informed geochemical model to describe biogeochemical processes in thawing sediments.&lt;/p&gt;
@@ -501,42 +672,60 @@ $$&lt;/p&gt;
     
     <item>
       <title>Uncultured microbial phyla suggest mechanisms for multi-thousand-year subsistence in Baltic Sea sediments</title>
-      <link>https://adsteen.github.io/publication/2019_bird_et_al_baltic/</link>
+      <link>/publication/2019_bird_et_al_baltic/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_bird_et_al_baltic/</guid>
+      <guid>/publication/2019_bird_et_al_baltic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
-      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
+      <link>/publication/2019_quigley_interactivity/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
+      <guid>/publication/2019_quigley_interactivity/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Understanding Electrochemically Activated Persulfate and Its Application to Ciprofloxacin Abatement</title>
-      <link>https://adsteen.github.io/publication/2018_matzek_persulfate/</link>
+      <link>/publication/2018_matzek_persulfate/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2018_matzek_persulfate/</guid>
+      <guid>/publication/2018_matzek_persulfate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential Activities of Freshwater Exo- and Endo-Acting Extracellular Peptidases in East Tennessee and the Pocono Mountains</title>
-      <link>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</link>
+      <link>/publication/2018_mullen_et_al_mxshs/</link>
       <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</guid>
+      <guid>/publication/2018_mullen_et_al_mxshs/</guid>
       <description>&lt;p&gt;This paper is a special one: it is our first paper out of the Malcolm X Shabazz Aquatic Geochemistry Team project. More than 60 studens from Malcolm X Shabazz High School contributed to the data collection effort, and all of them are named individually in the paper. Kim Boerrigter, who acted as a student leader of the team, earned individual authorship. Since publication, more than 40 additional students have taken part in the Team, and we continue to produce research and work towards a second publication.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sequential bioavailability of sedimentary organic matter to heterotrophic bacteria</title>
-      <link>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</link>
+      <link>/publication/2017_mahmoudi_isocarb/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</guid>
+      <guid>/publication/2017_mahmoudi_isocarb/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -554,9 +743,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Evidence for the Priming Effect in a Planktonic Estuarine Microbial Community</title>
-      <link>https://adsteen.github.io/publication/2016_steen_priming/</link>
+      <link>/publication/2016_steen_priming/</link>
       <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2016_steen_priming/</guid>
+      <guid>/publication/2016_steen_priming/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -574,9 +763,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Substrate specificity of aquatic extracellular peptidases assessed by competitive inhibition assays using synthetic substrates</title>
-      <link>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</link>
+      <link>/publication/2015_steen_et_al_subs_specificity/</link>
       <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</guid>
+      <guid>/publication/2015_steen_et_al_subs_specificity/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -594,9 +783,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>New aminopeptidase from “microbial dark matter” archaeon</title>
-      <link>https://adsteen.github.io/publication/2015_michalska_et_al/</link>
+      <link>/publication/2015_michalska_et_al/</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2015_michalska_et_al/</guid>
+      <guid>/publication/2015_michalska_et_al/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -613,9 +802,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Extracellular enzymes in terrestrial, freshwater, and marine environments: Perspectives on system variability and common research needs</title>
-      <link>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</link>
+      <link>/publication/2013_arnosti_et_al_review/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</guid>
+      <guid>/publication/2013_arnosti_et_al_review/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -634,9 +823,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard</title>
-      <link>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</link>
+      <link>/publication/2014_cardman_et_al_verrucomicrobia/</link>
       <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</guid>
+      <guid>/publication/2014_cardman_et_al_verrucomicrobia/</guid>
       <description>&lt;p&gt;Cool thing about this paper: Lead author Zena Cardman was an undergraduate student in the &lt;a href=&#34;https://marine.unc.edu/research/traditional-disciplines/biological-oceanography/teske-lab-research/&#34; target=&#34;_blank&#34;&gt;Teske Lab&lt;/a&gt; at UNC when she did this work. Besides being an all-around awesome person, she is now a &lt;a href=&#34;https://www.nasa.gov/astronauts/biographies/zena-cardman&#34; target=&#34;_blank&#34;&gt;NASA Astronaut Candidate&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -656,9 +845,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Meta-Analysis of Quantification Methods Shows that Archaea and Bacteria Have Similar Abundances in the Subseafloor</title>
-      <link>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</link>
+      <link>/publication/2013_lloyd_et_al_metaanalysis/</link>
       <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</guid>
+      <guid>/publication/2013_lloyd_et_al_metaanalysis/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -676,9 +865,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Phylogenetically Novel Uncultured Microbial Cells Dominate Earth Microbiomes</title>
-      <link>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</link>
+      <link>/publication/2018_lloyd_et_al_uncultured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</guid>
+      <guid>/publication/2018_lloyd_et_al_uncultured/</guid>
       <description></description>
     </item>
     

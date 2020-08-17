@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab resources | Steen Lab</title>
-    <link>https://adsteen.github.io/lab-resources/</link>
-      <atom:link href="https://adsteen.github.io/lab-resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>/lab-resources/</link>
+      <atom:link href="/lab-resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab resources</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Lab resources</title>
-      <link>https://adsteen.github.io/lab-resources/</link>
+      <link>/lab-resources/</link>
     </image>
     
     <item>
       <title>marie quickstart</title>
-      <link>https://adsteen.github.io/lab-resources/marie/</link>
+      <link>/lab-resources/marie/</link>
       <pubDate>Sat, 06 Jun 2020 12:29:43 -0400</pubDate>
-      <guid>https://adsteen.github.io/lab-resources/marie/</guid>
+      <guid>/lab-resources/marie/</guid>
       <description>
 
 &lt;p&gt;The SteenLab server is named marie for Marie Tharp, a pioneering oceanographer who used sounding data collected by others to create the first high-quality bathymetric map of the world&amp;rsquo;s oceans. In that spirit, we hope that you will use marie to gain a new understanding of how the planet and the microbial world work.&lt;/p&gt;

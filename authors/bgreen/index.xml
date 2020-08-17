@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>https://adsteen.github.io/authors/bgreen/</link>
-      <atom:link href="https://adsteen.github.io/authors/bgreen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/bgreen/</link>
+      <atom:link href="/authors/bgreen/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>https://adsteen.github.io/authors/bgreen/</link>
+      <link>/authors/bgreen/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://adsteen.github.io/authors/bgreen/</link>
+      <link>/authors/bgreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/authors/bgreen/</guid>
+      <guid>/authors/bgreen/</guid>
       <description>&lt;p&gt;Brianna is a new grad student, studying for a Master&amp;rsquo;s degree in Geology.&lt;/p&gt;
 </description>
     </item>
