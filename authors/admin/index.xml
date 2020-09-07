@@ -13,6 +13,17 @@
     </image>
     
     <item>
+      <title>Analytical and Computational Advances, Opportunities, and Challenges in Marine Organic Biogeochemistry in an Era of “Omics”</title>
+      <link>https://adsteen.github.io/publication/2020_steen_hwk_review/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2020_steen_hwk_review/</guid>
+      <description>&lt;p&gt;In 2019, &lt;a href=&#34;https://marine.unc.edu/people/faculty/arnosti/&#34;&gt;Carol Arnosti&lt;/a&gt;, &lt;a href=&#34;https://uol.de/en/icbm/marine-geochemistry/staff/prof-dr-thorsten-dittmar&#34;&gt;Thorsten Dittmar&lt;/a&gt;, &lt;a href=&#34;https://www.marum.de/en/Kai-Uwe-Hinrichs.html&#34;&gt;Kai-Uwe Hinrichs&lt;/a&gt;, &lt;a href=&#34;https://www.somas.stonybrook.edu/people/faculty/cindy-lee/&#34;&gt;Cindy Lee&lt;/a&gt;, and &lt;a href=&#34;https://www.skio.uga.edu/people/faculty/stuart-wakeham/&#34;&gt;Stuart Wakeham&lt;/a&gt; organized a workshop of organic geochemists at the &lt;a href=&#34;https://www.h-w-k.de/&#34;&gt;Hanse-Wissenschaftskolleg&lt;/a&gt; (Institute for Advanced Study) in Delmenhorst, Germany. I was privileged to serve as the lead author of the Analytical Chemistry working group, in which we discussed advances since the John Hedges Memorial Symposium in 2004^[Coincidentally, this was the first conference I ever attended.], and the opportunities for technological development in marine organic geochemistry over the next decade or so.&lt;/p&gt;
+&lt;p&gt;2004 was an interesting marker because this roughly corresponds to the period in which &amp;lsquo;omics technologies became accessible to marine organic geochemistry. Marine organic geochemists in 2020 need to be thinking about the inner workings of microbial communities in the ocean (and, indeed, my research has shifted during this period from more-or-less pure geochemistry to bioinformatics). It was interesting to me that the single point of unanimity among the reviewers of this manuscript was the idea that advances in computational techniques and tools, such as git, GitHub, and interpreted languages such as R and python, are critical to the field, so that section was substantially expanded during reviews. Going forward, it is clear that there is no meaningful organic geochemistry without microbial ecology, genomics, and even genetics.&lt;/p&gt;
+&lt;p&gt;Typically, the flow of information has been primarily from basic microbiology to microbial ecology to organic geochemistry, at least as far as environmental biomarkers are concerned. An unexpected (to me at least) consequence of the union of &amp;lsquo;omics technologies with organic geochemistry is that it allows us to study microbes in their natural environment much more realistically. I&amp;rsquo;m looking forward to the next seminar in this series, perhaps ten or fifteen years from now. I expect in that time we will have gained many new insights about marine organic geochemistry, but also that the work of marine organic geochemists will have spawned important new findings in microbial physiology and ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Patterns in extracellular enzyme activity and microbial diversity in deep-sea Mediterranean sediments</title>
       <link>https://adsteen.github.io/publication/2020_mahmoudi_med/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -215,17 +226,6 @@
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Analytical and Computational Advances, Opportunities, and Challenges in Marine Organic Biogeochemistry in an Era of “Omics”</title>
-      <link>https://adsteen.github.io/publication/2020_steen_hwk_review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2020_steen_hwk_review/</guid>
-      <description>&lt;p&gt;In 2019, &lt;a href=&#34;https://marine.unc.edu/people/faculty/arnosti/&#34;&gt;Carol Arnosti&lt;/a&gt;, &lt;a href=&#34;https://uol.de/en/icbm/marine-geochemistry/staff/prof-dr-thorsten-dittmar&#34;&gt;Thorsten Dittmar&lt;/a&gt;, &lt;a href=&#34;https://www.marum.de/en/Kai-Uwe-Hinrichs.html&#34;&gt;Kai-Uwe Hinrichs&lt;/a&gt;, &lt;a href=&#34;https://www.somas.stonybrook.edu/people/faculty/cindy-lee/&#34;&gt;Cindy Lee&lt;/a&gt;, and &lt;a href=&#34;https://www.skio.uga.edu/people/faculty/stuart-wakeham/&#34;&gt;Stuart Wakeham&lt;/a&gt; organized a workshop of organic geochemists at the &lt;a href=&#34;https://www.h-w-k.de/&#34;&gt;Hanse-Wissenschaftskolleg&lt;/a&gt; (Institute for Advanced Study) in Delmenhorst, Germany. I was privileged to serve as the lead author of the Analytical Chemistry working group, in which we discussed advances since the John Hedges Memorial Symposium in 2004^[Coincidentally, this was the first conference I ever attended.], and the opportunities for technological development in marine organic geochemistry over the next decade or so.&lt;/p&gt;
-&lt;p&gt;2004 was an interesting marker because this roughly corresponds to the period in which &amp;lsquo;omics technologies became accessible to marine organic geochemistry. Marine organic geochemists in 2020 need to be thinking about the inner workings of microbial communities in the ocean (and, indeed, my research has shifted during this period from more-or-less pure geochemistry to bioinformatics). It was interesting to me that the single point of unanimity among the reviewers of this manuscript was the idea that advances in computational techniques and tools, such as git, GitHub, and interpreted languages such as R and python, are critical to the field, so that section was substantially expanded during reviews. Going forward, it is clear that there is no meaningful organic geochemistry without microbial ecology, genomics, and even genetics.&lt;/p&gt;
-&lt;p&gt;Typically, the flow of information has been primarily from basic microbiology to microbial ecology to organic geochemistry, at least as far as environmental biomarkers are concerned. An unexpected (to me at least) consequence of the union of &amp;lsquo;omics technologies with organic geochemistry is that it allows us to study microbes in their natural environment much more realistically. I&amp;rsquo;m looking forward to the next seminar in this series, perhaps ten or fifteen years from now. I expect in that time we will have gained many new insights about marine organic geochemistry, but also that the work of marine organic geochemists will have spawned important new findings in microbial physiology and ecology.&lt;/p&gt;
 </description>
     </item>
     
