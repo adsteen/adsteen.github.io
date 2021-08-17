@@ -5,7 +5,7 @@
     <link>https://adsteen.github.io/lab-resources/</link>
       <atom:link href="https://adsteen.github.io/lab-resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab resources</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Lab resources</title>
@@ -90,8 +90,18 @@
 &lt;/ul&gt;
 &lt;h1 id=&#34;taking-charge-of-your-career&#34;&gt;Taking charge of your career&lt;/h1&gt;
 &lt;ul&gt;
+&lt;li&gt;Scientific writing
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-018-02404-4&#34;&gt;How to write a scientific paper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/&#34;&gt;Scientific commnication&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/&#34;&gt;Scientific communication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Building an academic website
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Building webpages with GitHub Pages and the Academic theme for Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adamormsby.com/posts/how-to-set-up-a-hugo-site-on-github-pages-with-submodules/&#34;&gt;Serving a GitHub Pages site using git submodules&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
