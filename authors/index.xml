@@ -5,7 +5,7 @@
     <link>https://adsteen.github.io/authors/</link>
       <atom:link href="https://adsteen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Authors</title>
@@ -91,6 +91,15 @@
 &lt;p&gt;Education:
 BS in Chemistry and Physics, 2018
 Arizona State University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/jschmidt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/jschmidt/</guid>
+      <description>&lt;p&gt;Jenna joined the lab in 2014 and studied the activities of extracellular enzymes in deep subsurface sediments of the Baltic Sea, collected during &lt;a href=&#34;http://publications.iodp.org/proceedings/347/347toc.htm&#34;&gt;IODP Expedition 347&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>https://adsteen.github.io/authors/troyalty/</link>
-      <atom:link href="https://adsteen.github.io/authors/troyalty/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/jschmidt/</link>
+      <atom:link href="https://adsteen.github.io/authors/jschmidt/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>https://adsteen.github.io/authors/troyalty/</link>
+      <link>https://adsteen.github.io/authors/jschmidt/</link>
     </image>
     
     <item>
@@ -19,38 +19,6 @@
       <guid>https://adsteen.github.io/publication/2021_schmidt_et_al/</guid>
       <description>&lt;p&gt;This paper is the culmination of several years of lab and fieldwork, mostly performed by students in my lab. Shane Hagen and Katherine Mulligan were at the time undergraduates (both subsequently enrolled in medical school), Richard Kevorkian and Austen Webber were post-bac technicians (both subsequently enrolled in graduate school) and Jenna Schmidt and Taylor Royalty were MS and Ph.D. students, respectively, in my lab. This paper used detailed characterization of extracellular enzyme activities in estuarine sediments to show two things that were not previously known: a.) heterotrophic microbes in subsurface sediments use extracellular enzymes to access detrital organic matter, and that b.) microbes in deeper sediments express enzymes that are adapted to more highly-degraded organic matter. The second point contributes to a major debate in subsurface microbiology about the extent to which subsurface microbes are adapted to their environment. Since most of these organisms are in a non-growing state in marine sediments, it has been argued that they are not adapted to live in this environment. Our paper suggests that, counterintuitively, they may be adapted to respond to environmental changes during burial.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
-      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC</title>
-      <link>https://adsteen.github.io/publication/2019_royalty_partitioning/</link>
-      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_royalty_partitioning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theoretical and Simulation-Based Investigation of the Relationship between Sequencing Effort, Microbial Community Richness, and Diversity in Binning Metagenome-Assembled Genomes</title>
-      <link>https://adsteen.github.io/publication/2019_royalty_steen_mags/</link>
-      <pubDate>Tue, 06 Aug 2019 00:06:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_royalty_steen_mags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina</title>
-      <link>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</guid>
-      <description></description>
     </item>
     
   </channel>
