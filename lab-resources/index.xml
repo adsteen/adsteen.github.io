@@ -5,7 +5,7 @@
     <link>https://adsteen.github.io/lab-resources/</link>
       <atom:link href="https://adsteen.github.io/lab-resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab resources</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Lab resources</title>
@@ -161,6 +161,100 @@
 &lt;li&gt;Users are urged to organize their directories logically, with one folder for each project. Within each project directory, data should be kept in the &lt;code&gt;data&lt;/code&gt; directory, code in dedicated directories, etc.&lt;/li&gt;
 &lt;li&gt;Users are strongly encouraged to keep their code under git control, so that it is easier to recover from mistakes.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/lab-resources/understanding_vectorization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/lab-resources/understanding_vectorization/</guid>
+      <description>&lt;h1 id=&#34;understanding-vectorization&#34;&gt;Understanding vectorization&lt;/h1&gt;
+&lt;p&gt;One of the real advantages of R is &lt;em&gt;vectorization&lt;/em&gt;: the ability of R to
+do the same operation on each element of a vector.&lt;/p&gt;
+&lt;p&gt;Think of it this way: in R, we can add two objects using simple syntax
+like this: &lt;code&gt;y &amp;lt;- a + b&lt;/code&gt;. This works if each of &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;b&lt;/code&gt; are single
+numbers:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;b &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;y &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;y
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;[1] 5
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;…but it works just as well if we add two vectors:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;b &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;11&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;15&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;y &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;y
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;[1] 12 14 16 18 20
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is kind of amazing! In a lot of programming languages we would have
+to tell the computer something like, “for each element of &lt;code&gt;a&lt;/code&gt;, find the
+corresponding element of &lt;code&gt;b&lt;/code&gt;. Add the two and create an object &lt;code&gt;y&lt;/code&gt; of
+the same length as &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;b&lt;/code&gt; and put the results into that.&lt;/p&gt;
+&lt;p&gt;This is cumbersome! R makes it easy for us!&lt;/p&gt;
+&lt;h1 id=&#34;vector-recycling&#34;&gt;Vector recycling&lt;/h1&gt;
+&lt;p&gt;It’s kind of weird, when you think about it, that this also works:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;b &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;[1] 2 3 4 5 6
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Why is that weird? Well, check this out&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;(a)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;[1] 5
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;(b)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;[1] 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;a&lt;/code&gt; has a length of &lt;code&gt;10&lt;/code&gt;, &lt;code&gt;b&lt;/code&gt; has a length of &lt;code&gt;1&lt;/code&gt;, but R is not thrown
+off by this discrepancy.&lt;/p&gt;
+&lt;p&gt;It might seem obvious that this would work, but consider that R has had
+to make a decision here: how to handle a vectorized operation for
+objects of different lengths? For instance, R could treat the missing
+values in &lt;code&gt;b&lt;/code&gt; as 0, yielding:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;a + b&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;[1] 2 2 3 4 5&lt;/p&gt;
+&lt;p&gt;Or it could treat them as &lt;code&gt;NA&lt;/code&gt;. Since anything plus &lt;code&gt;NA&lt;/code&gt; is &lt;code&gt;NA&lt;/code&gt;, we
+would get:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;a + b&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;[1] 2 NA NA NA NA&lt;/p&gt;
+&lt;p&gt;Or it could just refuse to do the operation, since it isn’t obvious how
+to handle the length disparity.&lt;/p&gt;
+&lt;p&gt;But instead, R figures out that what you really want to do is to add &lt;code&gt;5&lt;/code&gt;
+to every element of &lt;code&gt;a&lt;/code&gt;. R silently &lt;em&gt;recycles&lt;/em&gt; the vector &lt;code&gt;b&lt;/code&gt; so that it
+is the same length as &lt;code&gt;a&lt;/code&gt;, as if we had set &lt;code&gt;b &amp;lt;- c(5, 5, 5, 5, 5)&lt;/code&gt; (or
+&lt;code&gt;b &amp;lt;- rep(5, times = 5)&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;vectors-are-usually-always-recycled&#34;&gt;Vectors are usually (always?) recycled&lt;/h2&gt;
+&lt;p&gt;In fact, R will recycle any shorter vector to the length of the longer
+vector. Observe:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;rep&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, times &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;b &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Warning in a + b: longer object length is not a multiple of shorter object
+length
+
+[1] 3 4 3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here, R has “recycled” the first element of &lt;code&gt;b&lt;/code&gt; so that it is added to
+the third element of &lt;code&gt;a&lt;/code&gt;. &lt;strong&gt;This is a bit dangerous.&lt;/strong&gt; We do get a
+warning (always pay attention to your warnings!) but I can’t think of
+that many reasons we would want to do this, and I can think of a lot of
+reasons we wouldn’t want to do this. Usually, in my life, if I am
+performing vectorized operations on vectors of different lengths, it is
+because I am making a mistake.&lt;/p&gt;
+&lt;p&gt;Pay particular attention to vectors whose lengths are multiples of each
+other:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;rep&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;b &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;[1] 3 4 3 4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;This situation is even more dangerous&lt;/strong&gt; because we don’t even get a
+warning.&lt;/p&gt;
+&lt;p&gt;There is some good news: if you do all your work in data frames, with a
+tidyverse-based approach, it is not that easy to run into this kind of
+problem.&lt;/p&gt;
 </description>
     </item>
     
