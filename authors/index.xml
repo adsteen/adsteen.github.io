@@ -5,7 +5,7 @@
     <link>https://adsteen.github.io/authors/</link>
       <atom:link href="https://adsteen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Authors</title>
@@ -58,6 +58,22 @@
     
     <item>
       <title></title>
+      <link>https://adsteen.github.io/authors/annika-harusadangkul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/annika-harusadangkul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/arib-ahsan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/arib-ahsan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://adsteen.github.io/authors/bgreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/bgreen/</guid>
@@ -85,6 +101,15 @@
     
     <item>
       <title></title>
+      <link>https://adsteen.github.io/authors/gabriel-velazquez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/gabriel-velazquez/</guid>
+      <description>&lt;p&gt;I am interested in how microorganisms evolved and adapted in Earth&amp;rsquo;s early ecosystems. I am also particularly passionate about utilizing metagenomic data from ancient sediments. My broader interest in research is to use genetic data from tehse samples to understand how life could evolve in similar environments on other planets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://adsteen.github.io/authors/ioduwole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/ioduwole/</guid>
@@ -105,10 +130,7 @@
       <link>https://adsteen.github.io/authors/jperez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/jperez/</guid>
-      <description>&lt;p&gt;I am interested in studying how various chemical species behave on a molecular scale in water-rock-soil-life systems (environmental geochemistry). I also enjoy looking into employing isotopic tracers as a way to understand paleoocean environments. Broadly, I seek to understand and model what chemical behaviors have measurable impacts from a geological standpoint.&lt;/p&gt;
-&lt;p&gt;Education:
-BS in Chemistry and Physics, 2018
-Arizona State University&lt;/p&gt;
+      <description>&lt;p&gt;I consider myself to be an analytical chemist with a passion for field work – land and sea. I gear my research towards trying to understand the interplay between microbial life and its environment. I am currently focused on studying enzyme structure and how it varies in the environment by using chemoproteomic techniques, such as activity-based protein profiling, and molecular dynamics simulations. I am also interested in geochemical perspectives on geomicrobiology by studying organic matter in a variety of environments using fluorescence spectroscopy.&lt;/p&gt;
 </description>
     </item>
     
@@ -126,7 +148,7 @@ Arizona State University&lt;/p&gt;
       <link>https://adsteen.github.io/authors/kkalhor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/kkalhor/</guid>
-      <description>&lt;p&gt;First and foremost, I am a microbiologist. I have been obsessed with the idea of using computers to solve problems in microbiology.&lt;/p&gt;
+      <description>&lt;p&gt;Kambiz (Kami) Kalhor is a Ph.D. researcher in the Steen Lab at the University of Southern California. His research investigates how microorganisms survive in the energy-limited deep subsurface, with a focus on protein stability as a potential adaptation for long-term survival. He combines bioinformatics, metagenomics, structural analysis, and experimental protein characterization to study microbial life near the energetic limits of life.&lt;/p&gt;
 </description>
     </item>
     
@@ -150,10 +172,27 @@ Arizona State University&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://adsteen.github.io/authors/max-khachikian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/max-khachikian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://adsteen.github.io/authors/mhibbs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/mhibbs/</guid>
       <description>&lt;p&gt;Mattie worked for the lab in the Summer of 2021. Having a background in statistics, she built a database for a project which examined the distribution of genomic novelty in uncultured microbes. She is now pursuing a PhD at McGill University in Atmospheric and Oceanic Sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/minh-tu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/minh-tu/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Minh (she/her) and I joined the Steen lab in Fall 2026. I&amp;rsquo;m interested in studying microbial physiology, specifically how microbes adapt to different environments as well as shape them. I&amp;rsquo;m also interested in &amp;ldquo;weird&amp;rdquo; and understudied microbes, and their evolutionary history. In my free time, I like watching movies, reading, and making music.&lt;/p&gt;
 </description>
     </item>
     
@@ -172,6 +211,15 @@ Arizona State University&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adsteen.github.io/authors/mstokes/</guid>
       <description>&lt;p&gt;I enjoy investigating microbial communities and how they impact the global climate cycle. In my free time, I like to go white water rafting and running with my dog, Naomi. I am still very early in my academic career, so I am always trying to learn as much as possible!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/pirich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/pirich/</guid>
+      <description>&lt;p&gt;I am interested in studying how carbon moves through microbial communities and the mechanisms by which it does so. I look into metabolomic data to trace the movement of isotopically-labeled carbon and nitrogen over time. I am also interested by how enzymes and their activity varies in sediments and how this effects the communities using those enzymes.&lt;/p&gt;
 </description>
     </item>
     
@@ -219,6 +267,22 @@ Arizona State University&lt;/p&gt;
       <description>&lt;p&gt;Taylor is interested in using data science approaches to better understand the distribution of microbial functions across phylogeny and space. After earning a Ph.D. in Geology from UT-Knoxville in three years, he moved to a position as a post-doc in the Steen Lab, where he used using data science tools to better understand the structure and function of microbial communities.&lt;/p&gt;
 &lt;p&gt;Taylor is now a scientist at &lt;a href=&#34;https://somalogic.com/&#34;&gt;SomaLogic&lt;/a&gt; working on designing aptamers.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/winzler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/winzler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/zachary-landry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/zachary-landry/</guid>
+      <description></description>
     </item>
     
     <item>

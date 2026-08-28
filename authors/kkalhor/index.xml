@@ -5,12 +5,21 @@
     <link>https://adsteen.github.io/authors/kkalhor/</link>
       <atom:link href="https://adsteen.github.io/authors/kkalhor/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright>
     <image>
       <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
       <link>https://adsteen.github.io/authors/kkalhor/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/kkalhor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/kkalhor/</guid>
+      <description>&lt;p&gt;Kambiz (Kami) Kalhor is a Ph.D. researcher in the Steen Lab at the University of Southern California. His research investigates how microorganisms survive in the energy-limited deep subsurface, with a focus on protein stability as a potential adaptation for long-term survival. He combines bioinformatics, metagenomics, structural analysis, and experimental protein characterization to study microbial life near the energetic limits of life.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
